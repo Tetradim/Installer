@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "runtimes": {
+    "Node.js": "24.21.0",
+    "Python": "3.13.15",
+    "MongoDB": "8.0.32"
+  },
+  "repositories": {
+    "Sentinel-Pulse": "5db765e5079fe0300e5e145d1bb705f479b7f2f2",
+    "Sentinel-Edge": "8a8a606fba36d74807505786ec52ecc6b2d551fe",
+    "Sentinel-Echo": "a2efcc446dea70c92f5b67db286086c46cc90acf",
+    "Sentinel-Flare": "67c3a9a5327dd6ec6473c9a0f03004ecf90add84",
+    "Sentinel-Core": "35b894010eedfcd0acc14aa11490865cd4c1640f",
+    "Sentinel-Archive": "bd9a7c59f704ed757c9f619b2d96ad6e6e746633",
+    "Sentinel-Chain": "c381a211978b9baf2674cc32b1d87d8b9814b97b",
+    "Sentinel-Link": "a462003c3c327d36035b81390196ee68de3d9d2c",
+    "Sentinel-Nexus": "b52238a873f483d5c768a661777b02981237ec84",
+    "Sentinel-Iron": "07ed99b46a0d07ee7dc682b978f5f2f115c2a061"
+  },
+  "desktopBots": [
+    "Sentinel-Core", "Sentinel-Pulse", "Sentinel-Edge", "Sentinel-Echo",
+    "Sentinel-Flare", "Sentinel-Chain", "Sentinel-Archive"
+  ]
+}
